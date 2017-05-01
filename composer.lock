@@ -367,13 +367,13 @@
             "target-dir": "Gregwar/Image",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Gregwar/Image.git",
-                "reference": "c9899e4c71009338f89a8c63c12c681692533ede"
+                "url": "https://github.com/olivierdalang/Image.git",
+                "reference": "0a1981aaf93888414882b0c192c09a4fda58e35c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Gregwar/Image/zipball/c9899e4c71009338f89a8c63c12c681692533ede",
-                "reference": "c9899e4c71009338f89a8c63c12c681692533ede",
+                "url": "https://api.github.com/repos/olivierdalang/Image/zipball/0a1981aaf93888414882b0c192c09a4fda58e35c",
+                "reference": "0a1981aaf93888414882b0c192c09a4fda58e35c",
                 "shasum": ""
             },
             "require": {

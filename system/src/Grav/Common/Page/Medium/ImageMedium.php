@@ -50,8 +50,8 @@ class ImageMedium extends Medium
     public static $magic_actions = [
         'resize', 'forceResize', 'cropResize', 'crop', 'zoomCrop',
         'negate', 'brightness', 'contrast', 'grayscale', 'emboss',
-        'smooth', 'sharp', 'edge', 'colorize', 'sepia', 'enableProgressive',
-        'rotate', 'flip', 'fixOrientation'
+        'smooth', 'sharp', 'edge', 'colorize', 'sepia', 'vignette',
+        'enableProgressive', 'rotate', 'flip', 'fixOrientation'
     ];
 
     /**
